@@ -1,4 +1,4 @@
 # MediaPlayer-2
- Using MediaPlayer <br>
-Using Linear Layout <br>
-add 3 Image Button (Play , Pause , Stop ) <br> 
+_Using MediaPlayer <br>
+_Using Linear Layout <br>
+_add 3 Image Button (Play , Pause , Stop ) <br> 
